@@ -1,0 +1,5 @@
+neme - Sergey
+surname - Hladchenko
+age - 34
+pets - 0
+salary - 600$

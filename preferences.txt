@@ -1,0 +1,5 @@
+Favorite film - Django Unchained
+favorite serial - no
+favorite food - pea soup
+favorite season - Summer, Winter
+country I want to visit - USA

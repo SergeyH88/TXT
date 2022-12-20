@@ -1,1 +1,12 @@
-
+#1
+Title - При клике на кнопку 'Trade now' не происходит переход на трейдинговую платформу
+Preconditions - Пользователь не зарегестрирован
+STR:
+  1) Перейти на сайт 'Capital com
+  2) Клик по кнопке 'Trade now' в хэдере главной страницы
+Expected result - При клике на кнопку 'Trade now' происходит переход на трейдинговую платформу
+Actual result - Переход на трейдинговую платформу не происходит
+Severyty - Hight
+Environment - Laptop, Intel Core i5 7th Gen, x64, 2.7GHz, RAM 8
+Attachments:
+Reproducibility - Usually 
